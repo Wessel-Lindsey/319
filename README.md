@@ -1,2 +1,5 @@
 # 319
-Iowa State - 2023 Fall - SE 319 - CONSTRUCTION OF USER INTERFACES - html, css, js, and more
+Iowa State - Fall 2023 - SE 319: Construction of User Interfaces - html, css, js, bootstrap, react, tailwind, and more
+
+Final Project Descrption:
+  
